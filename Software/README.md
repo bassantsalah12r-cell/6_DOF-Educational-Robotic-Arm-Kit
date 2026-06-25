@@ -89,8 +89,8 @@ The Kinematics module implements the mathematical algorithms required for roboti
 - Transformation Matrices
 - End-Effector Calculation
 
-<img src="../assets/screenshots/fk.png" width="430">
-<img src="../assets/screenshots/ik.png" width="430">
+<img src="../assets/screenshots/fk1.png" width="430">
+<img src="../assets/screenshots/ik1.png" width="430">
 
 ---
 
@@ -104,8 +104,6 @@ Robot simulation is performed using PyBullet to visualize robot movement before 
 - Robot Animation
 - Collision Visualization
 - Motion Verification
-
-<img src="../assets/screenshots/simulation.png" width="900">
 
 ---
 
