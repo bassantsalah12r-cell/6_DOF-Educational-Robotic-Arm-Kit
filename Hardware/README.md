@@ -63,7 +63,7 @@ The electronic system consists of:
 
 <div align="center">
 
-<img src="../assets/hardware/circuit.png" width="850">
+<img src="../assets/screenshots/circuit.png" width="850">
 
 *Figure 1. Electronic Circuit Diagram.*
 
