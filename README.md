@@ -1,16 +1,24 @@
-# 6_DOF-Educational-Robotic-Arm-Kit
-<div align="center">
 <div align="center">
 
-### 🎓 Benha National University
-### Mechatronics Engineering Department
+<img src="assets/logo.png" width="130">
 
-Graduation Project 2026
+# BENHA NATIONAL UNIVERSITY
 
-</div>
+### Faculty of Engineering
+
+### Mechatronics and Automation Department
+
+<br>
+
+# 🎓 Graduation Project 2026
+
+# 🤖 6_DOF Educational Robotic Arm Kit
+
 ### Learn • Visualize • Simulate • Understand Robotics
 
 An interactive educational platform designed to help students understand robotic kinematics through real-time simulation, visualization, and control.
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyBullet](https://img.shields.io/badge/PyBullet-Simulation-green)
@@ -21,156 +29,143 @@ An interactive educational platform designed to help students understand robotic
 
 ---
 
-## 📖 Overview
+# 📖 Overview
 
-Robotics education often focuses on mathematical equations and theoretical concepts without providing sufficient visualization of how robot motion is generated.
+Robotics education often focuses on mathematical equations and theoretical concepts without providing sufficient visualization of robot behavior.
 
-This platform bridges the gap between theory and practice by allowing students to interactively explore:
+The 6-DOF Educational Robotic Arm Kit was developed to bridge the gap between theoretical robotics concepts and practical implementation.
 
-- Forward Kinematics (FK)
-- Inverse Kinematics (IK)
-- Path Planning
-- Robot Simulation
-- Joint Control
-- Real-Time Visualization
+The platform provides an interactive environment where students can:
 
-The system combines educational content with interactive simulation to create a powerful learning environment for robotics students.
+✅ Explore Forward Kinematics
+
+✅ Explore Inverse Kinematics
+
+✅ Generate Robot Trajectories
+
+✅ Simulate Robot Motion
+
+✅ Control a Physical Robot Arm
+
+✅ Visualize Mathematical Concepts in Real Time
+
+The system combines software simulation, educational visualization, and hardware integration to create a complete robotics learning experience.
 
 ---
 
-## 🖼️ Main Interface
+# ✨ Key Features
 
-<p align="center">
-<img src="assets/screenshots/main_gui.png" width="900">
-</p>
-
----
-
-## ✨ Features
-
-### 🔹 Forward Kinematics
-- Calculate end-effector position
-- Visualize robot movement
-- Display transformation results
-
-### 🔹 Inverse Kinematics
-- Solve desired robot pose
-- Generate joint angles automatically
-- Verify solutions through simulation
-
-### 🔹 Path Planning
-- Generate trajectories
-- Interpolate waypoints
-- Execute smooth robot motion
-
-### 🔹 Simulation
-- Real-time robot visualization
-- Physics-based environment using PyBullet
-- Interactive robot control
-
-### 🔹 GUI
-- User-friendly interface
-- Educational visualization
-- Easy navigation between modules
-
-### 🔹 Data Visualization
-- Joint angle monitoring
-- Position tracking
-- Performance graphs
+| Feature | Description |
+|----------|-------------|
+| Forward Kinematics | Calculate end-effector position and orientation |
+| Inverse Kinematics | Generate joint angles for a desired pose |
+| Path Planning | Generate smooth robot trajectories |
+| Robot Simulation | Real-time simulation using PyBullet |
+| GUI Interface | User-friendly educational interface |
+| Data Visualization | Graphs and performance analysis |
+| ESP32 Integration | Physical robot control |
+| Educational Content | Learning-focused design |
 
 ---
 
 # 🏗️ System Architecture
 
-<p align="center">
-<img src="assets/architecture.png" width="1000">
-</p>
-
-### Workflow
-
 ```text
 User
-  ↓
-GUI Interface
-  ↓
+ │
+ ▼
+GUI Interface (Tkinter)
+ │
+ ▼
 Kinematics Engine
-  ↓
+(FK / IK Calculations)
+ │
+ ▼
 Control Module
-  ↓
+ │
+ ▼
 Simulation Engine
-  ↓
-Robot Model
+(PyBullet)
+ │
+ ▼
+6-DOF Robot Model
 ```
 
 ---
 
-# 🔄 Forward Kinematics Flow
-
-<p align="center">
-<img src="assets/fk_flowchart.png" width="700">
-</p>
+# 🔄 Forward Kinematics Workflow
 
 ```text
 Start
- ↓
+ │
+ ▼
 Input Joint Angles
- ↓
+ │
+ ▼
 Apply DH Parameters
- ↓
+ │
+ ▼
 Compute Transformation Matrices
- ↓
-Calculate End-Effector Position
- ↓
+ │
+ ▼
+Calculate End-Effector Pose
+ │
+ ▼
 Visualize Results
- ↓
+ │
+ ▼
 End
 ```
 
 ---
 
-# 🔄 Inverse Kinematics Flow
-
-<p align="center">
-<img src="assets/ik_flowchart.png" width="700">
-</p>
+# 🔄 Inverse Kinematics Workflow
 
 ```text
 Start
- ↓
+ │
+ ▼
 Input Desired Pose
- ↓
-IK Solver
- ↓
+ │
+ ▼
+Inverse Kinematics Solver
+ │
+ ▼
 Generate Joint Angles
- ↓
+ │
+ ▼
 Validate Solution
- ↓
+ │
+ ▼
 Visualize Robot Motion
- ↓
+ │
+ ▼
 End
 ```
 
 ---
 
-# 🔄 Path Planning Flow
-
-<p align="center">
-<img src="assets/path_planning_flowchart.png" width="700">
-</p>
+# 🔄 Path Planning Workflow
 
 ```text
 Start
- ↓
+ │
+ ▼
 Select Start Position
- ↓
+ │
+ ▼
 Select Goal Position
- ↓
+ │
+ ▼
 Generate Trajectory
- ↓
+ │
+ ▼
 Interpolate Waypoints
- ↓
+ │
+ ▼
 Execute Motion
- ↓
+ │
+ ▼
 End
 ```
 
@@ -178,78 +173,46 @@ End
 
 # 📸 Screenshots
 
-## Home Screen
+## Home Page
 
 <img src="assets/screenshots/home.png">
 
-## Forward Kinematics
+## Forward Kinematics Module
 
 <img src="assets/screenshots/fk.png">
 
-## Inverse Kinematics
+## Inverse Kinematics Module
 
 <img src="assets/screenshots/ik.png">
 
-## Simulation
+## Simulation Environment
 
 <img src="assets/screenshots/simulation.png">
 
 ---
 
-# 🎥 Demonstration
-
-<p align="center">
-<img src="assets/demo.gif">
-</p>
-
----
-
 # 🛠️ Technologies Used
 
-- Python
-- Tkinter
-- PyBullet
+- Python 3.11
+- Tkinter GUI
+- PyBullet Simulation
 - NumPy
 - Matplotlib
 - C++
 - ESP32
 - Robotics Algorithms
 - DH Parameters
+- URDF Robot Modeling
 
 ---
 
-# 📂 Project Structure
-
-```text
-Robotic-Education-Platform/
-│
-├── GUI/
-├── Kinematics/
-├── Simulation/
-├── Control/
-├── ESP32/
-├── Documentation/
-├── assets/
-│   ├── screenshots/
-│   ├── architecture.png
-│   ├── fk_flowchart.png
-│   ├── ik_flowchart.png
-│   └── demo.gif
-│
-├── requirements.txt
-├── README.md
-└── main.py
-```
-
----
-
-## 👨‍🏫 Supervisor
+# 👨‍🏫 Supervisor
 
 <div align="center">
 
-<img src="assets/team/amro_shafik.jpg" width="150" style="border-radius:50%;">
+<img src="assets/team/amro_shafik.jpg" width="180">
 
-### Dr. Amro Shafik
+## Dr. Amro Shafik
 
 Project Supervisor
 
@@ -259,58 +222,15 @@ Project Supervisor
 
 # 👥 Development Team
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center">
-<img src="assets/team/bassant.jpg" width="120"><br>
-<b>Bassant Salah Rashad</b><br>
-Robotics & Software Developer
-</td>
+| | |
+|:-:|:-:|
+| <img src="assets/team/bassant.jpg" width="140"><br><b>Bassant Salah Rashad</b><br>Robotics & Software Developer | <img src="assets/team/shahd.jpg" width="140"><br><b>Shahd Ahmed Mahboub</b><br>Software Developer |
+| <img src="assets/team/haneen.jpg" width="140"><br><b>Haneen Ahmed Hamed</b><br>Software Developer | <img src="assets/team/fatema.jpg" width="140"><br><b>Fatema Ahmed Saad</b><br>Software Developer |
+| <img src="assets/team/seif.jpg" width="140"><br><b>Seif Allah Wael Hassan</b><br>Embedded Systems Developer | <img src="assets/logo.png" width="140"><br><b>Benha National University</b><br>Mechatronics Engineering |
 
-<td align="center">
-<img src="assets/team/shahd.jpg" width="120"><br>
-<b>Shahd Ahmed Mahboub</b><br>
-Software Developer
-</td>
-
-<td align="center">
-<img src="assets/team/haneen.jpg" width="120"><br>
-<b>Haneen Ahmed Hamed</b><br>
-Software Developer
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="assets/team/fatema.jpg" width="120"><br>
-<b>Fatema Ahmed Saad</b><br>
-Software Developer
-</td>
-
-<td align="center">
-<img src="assets/team/seif.jpg" width="120"><br>
-<b>Seif Allah Wael Hassan</b><br>
-Embedded Systems Developer
-</td>
-
-<td align="center">
-<img src="assets/logo.png" width="120"><br>
-<b>Benha National University</b><br>
-Mechatronics Engineering
-</td>
-
-</tr>
-</table>
-
-
----
-
-# 🎓 Supervisor
-
-Dr. ______________________
+</div>
 
 ---
 
@@ -320,15 +240,24 @@ Dr. ______________________
 - AI-Based Motion Planning
 - Computer Vision Integration
 - Real Robot Deployment
-- Web-Based Platform
+- Web-Based Learning Platform
+- Multi-Robot Simulation
 
 ---
 
 # 📜 License
 
-This project is developed for educational and research purposes.
+This project was developed as a Graduation Project at Benha National University for educational and research purposes.
 
 ---
+
+<div align="center">
+
+### ⭐ Thank you for visiting our project
+
+Made with ❤️ by the Mechatronics and Automation Engineering Team
+
+</div>
 
 <div align="center">
 
