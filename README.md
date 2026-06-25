@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/uni_logo.png" width="130">
+<img src="assets/logo/uni_logo.png" width="130">
 
 # BENHA NATIONAL UNIVERSITY
 
