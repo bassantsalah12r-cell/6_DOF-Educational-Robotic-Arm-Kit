@@ -224,11 +224,10 @@ Project Supervisor
 
 <div align="center">
 
-| | |
-|:-:|:-:|
-| <img src="assets/team/bassant.jpg" width="140"><br><b>Bassant Salah Rashad</b><br>Robotics & Software Developer | <img src="assets/team/shahd.jpg" width="140"><br><b>Shahd Ahmed Mahboub</b><br>Software Developer |
-| <img src="assets/team/haneen.jpg" width="140"><br><b>Haneen Ahmed Hamed</b><br>Software Developer | <img src="assets/team/fatema.jpg" width="140"><br><b>Fatema Ahmed Saad</b><br>Software Developer |
-| <img src="assets/team/seif.jpg" width="140"><br><b>Seif Allah Wael Hassan</b><br>Embedded Systems Developer | <img src="assets/logo.png" width="140"><br><b>Benha National University</b><br>Mechatronics Engineering |
+| | | | |
+|:-:|:-:|:-:|:-:|
+| <img src="assets/team/bassant.jpg" width="140"><br><b>Bassant Salah Rashad</b><br>Software Team | <img src="assets/team/shahd.jpg" width="140"><br><b>Shahd Ahmed Mahboub</b><br>Mechanical & Software Team | <img src="assets/team/haneen.jpg" width="140"><br><b>Haneen Ahmed Hamed</b><br>Software Team | <img src="assets/team/fatema.jpg" width="140"><br><b>Fatema Ahmed Saad</b><br>Mechanical Team |
+| <img src="assets/team/seif.jpg" width="140"><br><b>Seif Allah Wael Hassan</b><br>Software & Hardware Team | <img src="assets/team/giovanni.jpg" width="140"><br><b>Giovanni El-Amir Gaber</b><br>Hardware Team | <img src="assets/team/mina.jpg" width="140"><br><b>Mina Bahgat Bolus</b><br>Mechanical Team | <img src="assets/team/mohamed.jpg" width="140"><br><b>Mohamed Ahmed Ahmed</b><br>Mechanical Team |
 
 </div>
 
