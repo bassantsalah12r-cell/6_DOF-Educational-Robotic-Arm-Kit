@@ -182,25 +182,53 @@ End
 
 ---
 
-# 📸 Screenshots
+# 📸 Graphical User Interface (GUI)
 
-## Home Page
+## 🏠 Home Interface
 
-<img src="assets/screenshots/home.png">
-
-## Forward Kinematics Module
-
-<img src="assets/screenshots/fk.png">
-
-## Inverse Kinematics Module
-
-<img src="assets/screenshots/ik.png">
-
-## Simulation Environment
-
-<img src="assets/screenshots/simulation.png">
+| Main Window | Robot Information |
+|:-----------:|:-----------------:|
+| <img src="assets/screenshots/home1.png" width="450"> | <img src="assets/screenshots/home2.png" width="450"> |
 
 ---
+
+## ⚙️ Forward Kinematics
+
+| Input Parameters | Simulation Result |
+|:----------------:|:-----------------:|
+| <img src="assets/screenshots/fk1.png" width="450"> | <img src="assets/screenshots/fk2.png" width="450"> |
+
+---
+
+## 🎯 Inverse Kinematics
+
+| Input Pose | Calculated Motion |
+|:----------:|:-----------------:|
+| <img src="assets/screenshots/ik1.png" width="450"> | <img src="assets/screenshots/ik2.png" width="450"> |
+
+---
+
+## 📈 Path Planning
+
+| Trajectory Generation | Robot Movement |
+|:---------------------:|:--------------:|
+| <img src="assets/screenshots/path1.png" width="450"> | <img src="assets/screenshots/path2.png" width="450"> |
+
+---
+
+## 🤖 Robot Simulation
+
+| Simulation View | End-Effector Motion |
+|:---------------:|:-------------------:|
+| <img src="assets/screenshots/sim1.png" width="450"> | <img src="assets/screenshots/sim2.png" width="450"> |
+
+---
+
+## 🔧 Robot Control
+
+| Control Panel | Real-Time Operation |
+|:-------------:|:-------------------:|
+| <img src="assets/screenshots/control1.png" width="450"> | <img src="assets/screenshots/control2.png" width="450"> |
 
 # 🛠️ Technologies Used
 
