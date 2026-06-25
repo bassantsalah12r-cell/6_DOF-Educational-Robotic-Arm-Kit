@@ -264,6 +264,15 @@ Project Supervisor
 </div>
 
 ---
+# 📂 Project Modules
+
+| Module | Description |
+|---------|-------------|
+| ⚙️ [Mechanical](Mechanical/) | Mechanical design, CAD models, assemblies, drawings, and manufacturing files. |
+| 💻 [Software](Software/) | GUI, kinematics, simulation, algorithms, and source code. |
+| 🔌 [Hardware](Hardware/) | ESP32 firmware, circuit diagrams, wiring, and hardware documentation. |
+
+---
 
 # 🚀 Future Work
 
