@@ -27,7 +27,6 @@ The hardware system was designed to ensure reliability, smooth operation, and ea
 ```text
 Hardware/
 │
-├── ESP32_Code/
 ├── Circuit_Diagrams/
 ├── Wiring/
 ├── Power_System/
