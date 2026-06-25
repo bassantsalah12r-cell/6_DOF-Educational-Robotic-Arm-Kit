@@ -224,21 +224,6 @@ End
 
 ---
 
-## 🤖 Robot Simulation
-
-| Simulation View | End-Effector Motion |
-|:---------------:|:-------------------:|
-| <img src="assets/screenshots/sim1.png" width="450"> | <img src="assets/screenshots/sim2.png" width="450"> |
-
----
-
-## 🔧 Robot Control
-
-| Control Panel | Real-Time Operation |
-|:-------------:|:-------------------:|
-| <img src="assets/screenshots/control1.png" width="450"> | <img src="assets/screenshots/control2.png" width="450"> |
-
-
 # 🛠️ Technologies Used
 
 - Python 3.11
