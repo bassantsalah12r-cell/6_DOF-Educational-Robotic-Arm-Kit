@@ -220,7 +220,7 @@ End
 
 | Tutorial Videos | Robot Movement |
 |:---------------------:|:--------------:|
-| <img src="assets/screenshots/torque1.png" width="450"> | <img src="assets/screenshots/torque2.png" width="450"> |
+| <img src="assets/screenshots/torque1.png" width="450"> | <img src="assets/screenshots/torque2(2).png" width="450"> |
 
 ---
 
