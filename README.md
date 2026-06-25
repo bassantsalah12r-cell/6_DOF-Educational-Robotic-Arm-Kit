@@ -1,6 +1,13 @@
 # 6_DOF-Educational-Robotic-Arm-Kit
 <div align="center">
+<div align="center">
 
+### 🎓 Benha National University
+### Mechatronics Engineering Department
+
+Graduation Project 2026
+
+</div>
 ### Learn • Visualize • Simulate • Understand Robotics
 
 An interactive educational platform designed to help students understand robotic kinematics through real-time simulation, visualization, and control.
