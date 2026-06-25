@@ -52,6 +52,17 @@ The platform provides an interactive environment where students can:
 The system combines software simulation, educational visualization, and hardware integration to create a complete robotics learning experience.
 
 ---
+## 🖼️ Project Preview
+
+<div align="center">
+
+<img src="assets/screenshots/robotic_arm.jpeg" width="900" alt="6-DOF Educational Robotic Arm">
+
+*Figure 1. Overview of the 6-DOF Educational Robotic Arm Kit.*
+
+</div>
+
+---
 
 # ✨ Key Features
 
