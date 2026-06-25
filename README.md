@@ -194,7 +194,7 @@ End
 
 ## ⚙️ Forward Kinematics
 
-| Input Parameters | Simulation Result |
+| Tutorial Videos | Simulation Result |
 |:----------------:|:-----------------:|
 | <img src="assets/screenshots/fk1.png" width="450"> | <img src="assets/screenshots/fk2.png" width="450"> |
 
@@ -202,7 +202,7 @@ End
 
 ## 🎯 Inverse Kinematics
 
-| Input Pose | Calculated Motion |
+| Tutorial Videos | Calculated Motion |
 |:----------:|:-----------------:|
 | <img src="assets/screenshots/ik1.png" width="450"> | <img src="assets/screenshots/ik2.png" width="450"> |
 
@@ -210,7 +210,15 @@ End
 
 ## 📈 Path Planning
 
-| Trajectory Generation | Robot Movement |
+| Tutorial Videos | Robot Movement |
+|:---------------------:|:--------------:|
+| <img src="assets/screenshots/path1.png" width="450"> | <img src="assets/screenshots/path2.png" width="450"> |
+
+---
+
+## 📈 Torque & Forces
+
+| Tutorial Videos | Robot Movement |
 |:---------------------:|:--------------:|
 | <img src="assets/screenshots/path1.png" width="450"> | <img src="assets/screenshots/path2.png" width="450"> |
 
@@ -230,6 +238,7 @@ End
 |:-------------:|:-------------------:|
 | <img src="assets/screenshots/control1.png" width="450"> | <img src="assets/screenshots/control2.png" width="450"> |
 
+
 # 🛠️ Technologies Used
 
 - Python 3.11
@@ -240,7 +249,6 @@ End
 - C++
 - ESP32
 - Robotics Algorithms
-- DH Parameters
 - URDF Robot Modeling
 
 ---
