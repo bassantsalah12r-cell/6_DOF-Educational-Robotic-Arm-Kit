@@ -186,7 +186,7 @@ End
 
 ## 🏠 Home Interface
 
-| Main Window | Robot Information |
+| Main Window | Student Information |
 |:-----------:|:-----------------:|
 | <img src="assets/screenshots/home1.png" width="450"> | <img src="assets/screenshots/home2.png" width="450"> |
 
