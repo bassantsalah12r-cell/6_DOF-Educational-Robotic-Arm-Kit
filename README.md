@@ -210,7 +210,7 @@ End
 
 <div align="center">
 
-<img src="amro_shafik.jpeg" width="180">
+<img src="assets/team/amro_shafik.jpg" width="180">
 
 ## Dr. Amro Shafik
 
