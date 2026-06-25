@@ -282,13 +282,6 @@ This project was developed as a Graduation Project at Benha National University 
 
 ---
 
-<div align="center">
-
-### ⭐ Thank you for visiting our project
-
-Made with ❤️ by the Mechatronics and Automation Engineering Team
-
-</div>
 
 <div align="center">
 
