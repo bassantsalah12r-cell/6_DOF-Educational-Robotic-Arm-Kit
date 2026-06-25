@@ -236,13 +236,68 @@ Robotic-Education-Platform/
 
 ---
 
-# 👥 Team Members
+## 👨‍🏫 Supervisor
 
-- Bassant Salah Rashad
-- Shahd Ahmed Mahboub
-- Haneen Ahmed Hamed
-- Fatema Ahmed Saad
-- Seif Allah Wael Hassan
+<div align="center">
+
+<img src="assets/team/amro_shafik.jpg" width="150" style="border-radius:50%;">
+
+### Dr. Amro Shafik
+
+Project Supervisor
+
+</div>
+
+---
+
+# 👥 Development Team
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="assets/team/bassant.jpg" width="120"><br>
+<b>Bassant Salah Rashad</b><br>
+Robotics & Software Developer
+</td>
+
+<td align="center">
+<img src="assets/team/shahd.jpg" width="120"><br>
+<b>Shahd Ahmed Mahboub</b><br>
+Software Developer
+</td>
+
+<td align="center">
+<img src="assets/team/haneen.jpg" width="120"><br>
+<b>Haneen Ahmed Hamed</b><br>
+Software Developer
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="assets/team/fatema.jpg" width="120"><br>
+<b>Fatema Ahmed Saad</b><br>
+Software Developer
+</td>
+
+<td align="center">
+<img src="assets/team/seif.jpg" width="120"><br>
+<b>Seif Allah Wael Hassan</b><br>
+Embedded Systems Developer
+</td>
+
+<td align="center">
+<img src="assets/logo.png" width="120"><br>
+<b>Benha National University</b><br>
+Mechatronics Engineering
+</td>
+
+</tr>
+</table>
+
 
 ---
 
