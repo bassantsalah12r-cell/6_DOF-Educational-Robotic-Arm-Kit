@@ -83,7 +83,7 @@ The power system provides stable voltage and current to all servo motors while p
 
 <div align="center">
 
-<img src="../assets/hardware/power_system.png" width="700">
+<img src="../assets/screenshots/power_system.png" width="700">
 
 </div>
 
@@ -100,7 +100,7 @@ This section contains all wiring connections between:
 
 <div align="center">
 
-<img src="../assets/hardware/wiring.png" width="850">
+<img src="../assets/screenshots/wiring.png" width="850">
 
 </div>
 
