@@ -37,6 +37,10 @@ Hardware/
 
 ---
 
+<img src="../assets/screenshots/PCB.png" width="850">
+
+---
+
 # 🛠️ Hardware Components
 
 | Component | Description |
