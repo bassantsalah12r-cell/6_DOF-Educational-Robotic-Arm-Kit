@@ -22,6 +22,10 @@ The hardware system was designed to ensure reliability, smooth operation, and ea
 
 ---
 
+<img src="../assets/screenshots/Calculations.png" width="850">
+
+---
+
 # 📂 Hardware Structure
 
 ```text
