@@ -34,9 +34,7 @@ The Mechanical Team was responsible for designing and developing the complete ro
 
 - SolidWorks
 - AutoCAD
-- Cura
-- Adobe Illustrator
-
+- Ansys
 ---
 
 ## 📸 CAD Preview
