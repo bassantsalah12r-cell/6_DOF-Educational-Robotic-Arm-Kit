@@ -91,7 +91,9 @@ The power system provides stable voltage and current to all servo motors while p
 
 <div align="center">
 
-<img src="../assets/screenshots/power_system.png" width="700">
+<img src="../assets/screenshots/Safety.jpeg" width="700">
+---
+<img src="../assets/screenshots/Safety1.jpeg" width="700">
 
 </div>
 
@@ -167,12 +169,9 @@ The Documentation folder includes:
 # 🚀 Future Improvements
 
 - Wireless Communication
-- PCB Design
 - Sensor Integration
 - Current Monitoring
 - Battery Management System
-- Safety Protection Circuit
-
 ---
 
 # 👨‍💻 Hardware Team
