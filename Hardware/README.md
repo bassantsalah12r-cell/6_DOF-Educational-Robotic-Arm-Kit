@@ -91,9 +91,9 @@ The power system provides stable voltage and current to all servo motors while p
 
 <div align="center">
 
-<img src="../assets/screenshots/Safety.jpeg" width="700">
+<img src="../assets/screenshots/safety.jpeg" width="700">
 ---
-<img src="../assets/screenshots/Safety1.jpeg" width="700">
+<img src="../assets/screenshots/safety2.jpeg" width="700">
 
 </div>
 
