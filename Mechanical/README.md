@@ -39,7 +39,7 @@ The Mechanical Team was responsible for designing and developing the complete ro
 
 ## 📸 CAD Preview
 
-<img src="../assets/mechanical/robot_model.png" width="900">
+<img src="../assets/mechanical/robot_model.jpeg" width="900">
 
 ---
 
