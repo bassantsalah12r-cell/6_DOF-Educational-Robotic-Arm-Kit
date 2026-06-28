@@ -47,6 +47,11 @@ The Mechanical Team was responsible for designing and developing the complete ro
 
 All SolidWorks part and assembly files are located inside the **CAD** folder.
 
+<img src="../assets/mechanical/gripper.jpeg" width="900">
+<img src="../assets/mechanical/yaw.jpeg" width="900">
+<img src="../assets/mechanical/wrist.jpeg" width="900">
+<img src="../assets/mechanical/shoulder.jpeg" width="900">
+
 ---
 
 ## 📂 Assembly
