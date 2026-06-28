@@ -141,9 +141,9 @@ Students can visualize the robot's motion, verify Forward and Inverse Kinematics
 
 ### Robot Simulation
 
-<img src="../Software/pybullet/pybullet1.jpeg" width="300">
-<img src="../Software/pybullet/pybullet2.jpeg" width="300">
-<img src="../Software/pybullet/pybullet3.jpeg" width="300">
+<img src="../assets/pybullet/pybullet1.jpeg" width="300">
+<img src="../assets/pybullet/pybullet2.jpeg" width="300">
+<img src="../assets/pybullet/pybullet3.jpeg" width="300">
 
 </div>
 
