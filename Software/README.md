@@ -121,7 +121,6 @@ The software communicates with the physical robotic arm through ESP32.
 <img src="../assets/screenshots/esp32.png" width="700">
 
 ---
----
 
 # 🎥 PyBullet Demonstration
 
