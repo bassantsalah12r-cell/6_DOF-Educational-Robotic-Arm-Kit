@@ -185,8 +185,3 @@ The Documentation folder contains:
 
 ---
 
-<div align="center">
-
-### 💻 Software Developed for the 6-DOF Educational Robotic Arm Kit
-
-</div>
