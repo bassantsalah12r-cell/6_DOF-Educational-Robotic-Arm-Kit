@@ -121,6 +121,48 @@ The software communicates with the physical robotic arm through ESP32.
 <img src="../assets/screenshots/esp32.png" width="700">
 
 ---
+---
+
+# 🎥 PyBullet Demonstration
+
+The educational platform integrates PyBullet to provide a realistic virtual environment for validating robot movements before executing them on the physical robotic arm.
+
+Students can visualize the robot's motion, verify Forward and Inverse Kinematics solutions, and observe trajectory execution in a safe simulation environment.
+
+### Demonstrated Features
+
+- 🤖 3D Robotic Arm Visualization
+- 🎯 Forward Kinematics Verification
+- 📐 Inverse Kinematics Motion
+- 🛤️ Trajectory Execution
+- ⚡ Real-Time Joint Movement
+- 🔄 Synchronization with the GUI
+
+<div align="center">
+
+### Robot Simulation
+
+<img src="../assets/pybullet/pybullet1.jpeg" width="300">
+<img src="../assets/pybullet/pybullet2.jpeg" width="300">
+<img src="../assets/pybullet/pybullet3.jpeg" width="300">
+
+</div>
+
+---
+
+### 🎬 Simulation Demo
+
+Watch the complete PyBullet simulation demonstrating robot motion and trajectory execution.
+
+<div align="center">
+
+https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx
+
+</div>
+
+> **Note:** If GitHub does not render the video preview, you can download the MP4 file directly from the link above.
+
+---
 
 # 📚 Documentation
 
