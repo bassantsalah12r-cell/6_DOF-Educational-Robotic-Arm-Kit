@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/60e8ef7a-a4a0-43e4-bbba-6226e9467b5e
-
 # 💻 Software Module
 
 <div align="center">
